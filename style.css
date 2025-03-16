@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    min-width: 800;
+    background-color: chocolate;
+    border: 2px black;
+    border-radius: 10px;
+    flex-wrap: wrap;
+
+}
+.recipe_link{
+    display: flex;
+}
+.index_title{
+    font: Georgia;
+    font-size: 36;
+
+}
+
